@@ -1,0 +1,11 @@
+simple
+CUDA_VISIBLE_DEVICES=3 python3 run_usad.py
+
+transfer
+CUDA_VISIBLE_DEVICES=3 python3 run_usd.py --train.transfer=True
+
+usad wadi training
+CUDA_VISIBLE_DEVICES=3 python3 run_usad.py --train.train_start=0 --train.max_train_size=48384
+
+usad swat training
+CUDA_VISIBLE_DEVICES=3 python3 run_usad.py --train.train_start=0 --train.max_train_size=445500
