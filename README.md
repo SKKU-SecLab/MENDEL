@@ -21,9 +21,9 @@ https://drive.google.com/drive/folders/1kjYkZ_BBj8Zuq_9OeyoLQSb2gg8LF5By?usp=sha
 The code is tested under the following envoriments
 
 ```
-OS: Ubuntu 18.04.5 LTS <br/>
-GPU: Tesla V100-PCIE-32GB <br/>
-CUDA: 11.0 <br/>
+OS: Ubuntu 18.04.5 LTS
+GPU: Tesla V100-PCIE-32GB
+CUDA: 11.0
 Python: 3.6
 ```
 
