@@ -1,7 +1,7 @@
+# All codes and instructions will be uploaded
+
 # MENDEL
 MENDEL (tiMe sEries aNomaly Detection using transfEr Learning) 
-
-## All codes and instructions will be uploaded
 
 ## Getting started
 
