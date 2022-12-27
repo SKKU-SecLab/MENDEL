@@ -12,7 +12,8 @@ git clone https://github.com/soemthlng/MENDEL.git && cd MENDEL
 ```
 
 **Get data**
-You can get datas from here
+
+You can get data from google drive
 ```
 https://drive.google.com/drive/folders/1kjYkZ_BBj8Zuq_9OeyoLQSb2gg8LF5By?usp=share_link
 ```
